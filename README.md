@@ -1,6 +1,7 @@
+`Import db_poliklinik`
 # Login Admin
 - **Username**: `admin`
 - **Password**: `adminpoliklinik`
 
 # Login dokter
-password = username (Jadi password yang dimasukan adalah Nama Dokter)
+password = username (Password yang dimasukan adalah Nama Dokter)
