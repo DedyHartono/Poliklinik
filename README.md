@@ -4,4 +4,4 @@
 - **Password**: `adminpoliklinik`
 
 # Login dokter
-password = username (Password yang dimasukan adalah Nama Dokter)
+password = username `Password yang dimasukan adalah Nama Dokter`
